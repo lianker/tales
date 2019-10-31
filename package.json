@@ -1,0 +1,8 @@
+{
+  "name": "tales",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lianker/tales.git",
+  "author": "lianker lopes <lianker.dev@gmail.com>",
+  "license": "MIT"
+}
